@@ -19,6 +19,6 @@ include(
     'base.py',
     'custom.py',
     optional(LOCAL_SETTINGS_PATH),
-    'envvars.py',   
+    'envvars.py',
     'docker.py',
 )
